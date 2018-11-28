@@ -61,9 +61,9 @@
     </build>
 
     <modules>
-        <module>jms</module>
-        <module>commons</module>
-        <module>concurrency</module>
+        <module>JMS</module>
+        <module>Commons</module>
+        <module>Concurrency</module>
         <module>Basics</module>
     </modules>
 </project>

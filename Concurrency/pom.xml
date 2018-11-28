@@ -9,10 +9,10 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>commons</artifactId>
+    <artifactId>concurrency</artifactId>
 
-    <name>commons</name>
-    <description>通用公共项目</description>
+    <name>Concurrency</name>
+    <description>Java并发编程实战</description>
     <url>http://www.pcstar.top</url>
 
     <properties>

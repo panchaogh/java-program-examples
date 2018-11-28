@@ -5,9 +5,9 @@
 # IntelliJ project files
 .idea
 *.iml
-jms/target/
-commons/target/
+JMS/target/
+Commons/target/
 Basics/target/
-concurrency/target/
+Concurrency/target/
 out
 gen
