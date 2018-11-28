@@ -6,5 +6,6 @@
 .idea
 *.iml
 jms/target/
+commons/target/
 out
 gen
