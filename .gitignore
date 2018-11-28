@@ -7,5 +7,7 @@
 *.iml
 jms/target/
 commons/target/
+Basics/target/
+concurrency/target/
 out
 gen
