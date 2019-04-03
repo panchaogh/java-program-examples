@@ -62,7 +62,6 @@
 
     <modules>
         <module>JMS</module>
-        <module>Commons</module>
         <module>Concurrency</module>
         <module>Basics</module>
     </modules>
